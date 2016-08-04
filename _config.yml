@@ -1,14 +1,14 @@
-layout_spectrum: 0.9646558873355389
-typography_spectrum: 0.7276719370856881
+layout_spectrum: 0.08764009363949299
+typography_spectrum: 0.17712664837017655
 color:
-  brandStrength: 0.9956205056514591
-  lightness: 0.9667939764913172
-  saturation: 0.34643627842888236
-  rhythmicContrast: 0.4988993222359568
+  brandStrength: 0.9785530723165721
+  lightness: 0.258597029838711
+  saturation: 0.6595069987233728
+  rhythmicContrast: 0.8583525351714343
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#545351'
+    - '#B21876'
+    - '#97969B'
+    - '#C55197'
 name: Disain Digesto
