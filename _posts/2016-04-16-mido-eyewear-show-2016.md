@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T07:26:59.733Z'
+datePublished: '2016-08-04T08:21:20.139Z'
 sourcePath: _posts/2016-04-16-mido-eyewear-show-2016.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/mido-eyewear-show-preview-milan'
@@ -17,7 +17,7 @@ keywords:
   - spectacles
 related: []
 author: []
-dateModified: '2016-08-04T07:26:59.262Z'
+dateModified: '2016-08-04T08:21:20.007Z'
 title: Mido Eyewear Show 2016
 app_links: []
 publisher:
