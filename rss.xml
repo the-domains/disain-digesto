@@ -4,7 +4,7 @@
         <description><![CDATA[Textile Magic]]></description>
         <link>https://thegrid.ai/disain-digesto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 08:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 08:36:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/disain-digesto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Levinud vead kodu sisustamisel]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/11b12478-22c5-4a19-a4dd-38743acb0420.jpg</link>
             <guid isPermaLink="false">e1c23db8-e86a-442c-acd4-228024f3f205</guid>
             <pubDate>Thu, 04 Aug 2016 08:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37ac8021-0566-424d-bd0d-70aece997fa1.jpg">]]></description>
-            <link>https://thegrid.ai/disain-digesto/aae6cd87-174c-4db9-8a44-33c5933950d9/index.html</link>
-            <guid isPermaLink="false">aae6cd87-174c-4db9-8a44-33c5933950d9</guid>
-            <pubDate>Thu, 04 Aug 2016 08:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
