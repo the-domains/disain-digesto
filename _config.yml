@@ -1,16 +1,16 @@
-typography_spectrum: 0.17712664837017655
+typography_spectrum: 0.012655977858230472
 color:
-  brandStrength: 0.9785530723165721
-  lightness: 0.258597029838711
-  saturation: 0.6595069987233728
-  rhythmicContrast: 0.8583525351714343
+  brandStrength: 0.2574357930570841
+  lightness: 0.48496264941059053
+  saturation: 0.8064787858165801
+  rhythmicContrast: 0.8376045713666826
   brandColors:
     - '#FFFFFF'
     - '#545351'
     - '#B21876'
     - '#97969B'
     - '#C55197'
-layout_spectrum: 0.08764009363949299
+layout_spectrum: 0.6771473246626556
 author:
   name: Disain Digesto
   email: info@digesto.ee
