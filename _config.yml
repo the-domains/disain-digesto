@@ -1,4 +1,3 @@
-layout_spectrum: 0.08764009363949299
 typography_spectrum: 0.17712664837017655
 color:
   brandStrength: 0.9785530723165721
@@ -11,4 +10,13 @@ color:
     - '#B21876'
     - '#97969B'
     - '#C55197'
+layout_spectrum: 0.08764009363949299
+author:
+  name: Disain Digesto
+  email: info@digesto.ee
+  url: www.digesto.ee
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/427cb231-10e3-44e5-92d0-78e5814750e7.svg
 name: Disain Digesto
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a905c698-a1fe-4296-9cfc-20cbcf49297c.png
