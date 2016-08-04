@@ -1,15 +1,15 @@
-typography_spectrum: 0.17712664837017655
+typography_spectrum: 0.5423885935451835
 color:
-  brandStrength: 0.9785530723165721
-  lightness: 0.258597029838711
-  saturation: 0.6595069987233728
-  rhythmicContrast: 0.8583525351714343
+  brandStrength: 0.03437457303516567
+  lightness: 0.71037752693519
+  saturation: 0.03328672866337001
+  rhythmicContrast: 0.2233605629298836
   brandColors:
-    - '#FFFFFF'
     - '#545351'
-    - '#B21876'
     - '#97969B'
     - '#C55197'
+    - '#FFFFFF'
+    - '#171715'
 layout_spectrum: 0.08764009363949299
 author:
   name: Disain Digesto
