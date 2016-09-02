@@ -10,14 +10,16 @@ color:
     - '#C55197'
     - '#FFFFFF'
     - '#171715'
+opengraph:
+  type: ''
 layout_spectrum: 0.08764009363949299
 author:
   name: Disain Digesto
   email: info@digesto.ee
   url: 'http://www.digesto.ee'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/427cb231-10e3-44e5-92d0-78e5814750e7.svg
-name: Disain Digesto
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f359907-abcb-40a9-b69e-9b0a1f6a1d00.svg
+name: Mikk Lainvoo
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a905c698-a1fe-4296-9cfc-20cbcf49297c.png
 title: Textile Magic
