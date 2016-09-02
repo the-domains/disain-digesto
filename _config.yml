@@ -24,6 +24,9 @@ navigation:
   - name: Website
     url: 'http://www.digesto.ee'
     type: external
+  - name: Facebook
+    url: 'http://www.facebook.com/digesto'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a905c698-a1fe-4296-9cfc-20cbcf49297c.png
 title: Textile Magic
