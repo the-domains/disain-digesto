@@ -20,6 +20,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5440546a-93ce-4749-98e1-d51293a031d7.svg
 name: Textile Magic
+navigation:
+  - name: Website
+    url: 'http://www.digesto.ee'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a905c698-a1fe-4296-9cfc-20cbcf49297c.png
 title: Textile Magic
