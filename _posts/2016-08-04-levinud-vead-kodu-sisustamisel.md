@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T09:20:29.528Z'
+datePublished: '2016-08-31T10:00:55.591Z'
 sourcePath: _posts/2016-08-04-levinud-vead-kodu-sisustamisel.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ead1a9d-2a28-4cef-837e-407abf369d66.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T09:20:20.587Z'
+dateModified: '2016-08-31T10:00:54.886Z'
 title: Levinud vead kodu sisustamisel
 publisher: {}
 description: ''
